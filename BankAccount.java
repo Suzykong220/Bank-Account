@@ -1,16 +1,12 @@
 /**
  * A class to represent a single bank account.
- * @author cs302
  */
 public class BankAccount {
 
     private double balance;
     private int accountNumber;
-
-    //************
-    //*  TASK 2  *
-    //************
-    /**
+    
+    /*
      * Constructor
      * @param initialBalance the initial balance of the BankAccount
      * @param accountNumber The account number to associate with this 
@@ -43,9 +39,7 @@ public class BankAccount {
         balance = balance + amount;
     }
 
-    //************
-    //*  TASK 3  *
-    //************
+    
     /**
      * Withdraws money from the BankAccount
      *
