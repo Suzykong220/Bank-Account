@@ -3,7 +3,6 @@ import java.util.Scanner;
 /**
  * A class to test the BankAccount class.  Uses a menu-driven system to
  * allow the user to interactively test the BankAccount class.
- * @author cs302
  */
 public class BankApp {
 
