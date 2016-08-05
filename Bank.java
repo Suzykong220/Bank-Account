@@ -1,6 +1,5 @@
 /**
  * A Bank can hold up to a fixed number of BankAccounts.
- * @author cs302
  */
 public class Bank {
     
